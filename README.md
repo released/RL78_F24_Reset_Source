@@ -62,6 +62,12 @@ void checking_reset_source(void)
 
 ```
 
-2. below is log message when trig reset BY power on reset , external reset or illegal-memory reset
+2. refer to flow chart as below
+
+![image](https://github.com/released/RL78_F24_Reset_Source/blob/main/flow_chart.jpg)
+
+
+3. below is log message when trig reset BY power on reset , external reset or illegal-memory reset
 
 ![image](https://github.com/released/RL78_F24_Reset_Source/blob/main/pwr_on_log.jpg)
+
